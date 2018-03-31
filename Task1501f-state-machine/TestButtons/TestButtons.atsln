@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "TestButtons", "TestButtons\TestButtons.cproj", "{5D2E4E8C-7FC5-41E5-A817-820A28596D6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D2E4E8C-7FC5-41E5-A817-820A28596D6F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{5D2E4E8C-7FC5-41E5-A817-820A28596D6F}.Debug|ARM.Build.0 = Debug|ARM
+		{5D2E4E8C-7FC5-41E5-A817-820A28596D6F}.Release|ARM.ActiveCfg = Release|ARM
+		{5D2E4E8C-7FC5-41E5-A817-820A28596D6F}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
