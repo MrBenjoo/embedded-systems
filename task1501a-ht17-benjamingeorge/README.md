@@ -1,10 +1,8 @@
-Task1501a-ht17
-=========
 
-Code repository for task 1501a-ht17 in DA264A _Inbyggda system &amp; signaler_ in 2017-2018.
-  
-
-
-[Instructions are found here](Instruction/Uppgift1501a-ht17.md)
+The entire project is organized as follows: 
+The project has two directories for where work is done, src and test.
+Functions developed are in directory src.
+The test runner file and the file(s) with the tests are in the directory test. The test framework is in the directory unity.
+ 
 
 
