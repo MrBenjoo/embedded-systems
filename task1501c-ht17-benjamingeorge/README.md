@@ -1,6 +1,11 @@
-Task1501c
-=========
-Code repository for task 1501c-ht17 in DA264A "Inbyggda system & signaler"
+# Task1501c
+## Lab Setup
+###### Equipment:
+- Arduino Due
+- LCD shield for Arduino
+
+## Description
+Writes a digit number on the LCD display 
 
 
 
