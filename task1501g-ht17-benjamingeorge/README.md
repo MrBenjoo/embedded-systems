@@ -1,16 +1,14 @@
-Task1501c
-=========
-Code repository for task 1501c in DA264A "Inbyggda system & signaler" in 2015.  
-This is also the assignment for those doing lab 1304/1b+1c or 1401c in the course DA139A.
+# Task1501g
 
-Syfte med uppgiften:
-------
+## Description
+A reaction time meter for two people which uses a real-time operating system (FreeRTOS).
 
-Studenten ska använda moderna utvecklingshjälpmedel, som IDE (Integrated Development Environment), för programutveckling av inbyggda system.
+## Lab Setup
 
-Studenten ska självständigt konstruera programvara för inbyggda system som läser och skriver till externa enheter.
+###### Equpiment
+- Arduino Due
+- LCD shield
+- Digital oscilloscope + a logic pod
+- A custom made electronic circuit with LED and push buttons (used under the reaction test)
 
-Krav för godkänt:
-------
 
-Ha genomfört följande labbmoment enligt [denna handledning](Instruction/Uppgift1501cHT15.md).
